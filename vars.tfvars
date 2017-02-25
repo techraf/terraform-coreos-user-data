@@ -37,6 +37,7 @@ etcd2_proxy-refresh-interval = "100"
 etcd2_proxy-write-timeout = "100"
 etcd2_snapshot-count = "1000"
 etcd2_trusted-ca-file = "value"
+
 flannel_etcd-certfile = "value"
 flannel_etcd-endpoints = "value"
 flannel_etcd-keyfile = "value"
